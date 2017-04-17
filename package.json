@@ -1,0 +1,13 @@
+{
+  "name": "jobs-api",
+  "version": "0.0.1",
+  "description": "Jobs Api",
+  "scripts": {
+    "start": "json-server fixtures.json"
+  },
+  "author": "Chris Whitten",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.9.6"
+  }
+}
