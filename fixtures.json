@@ -5,7 +5,12 @@
       "id": "18615",
       "tasks": {
         "PICKUP": {
-          "photograph": "some string"
+          "photograph": false,
+          "billOfLading": false
+        },
+        "DROPOFF": {
+          "photograph": false,
+          "billOfLading": false
         }
       },
       "stops": [
